@@ -2,7 +2,7 @@
 name: Christzen Leonardy
 email: christzenleonardy@outlook.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
+keywords: "Software Engineer, Python, C++, Pascal, Learning, VBA"
 skills: "Junior Software Engineer in Bandung, Indonesia"
 baseurl:
 
@@ -10,11 +10,7 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
-  - title: twitter
-    url: https://twitter.com/chuck_groom
+    url: https://www.linkedin.com/in/ChristzenLeonardy/
     
 # Google webmaster tools
 google_verify:
